@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tests.h": "c",
+			"tgraph.h": "c",
+			"array.h": "c",
+			"tfile.h": "c",
+			"time.h": "c",
+			"tuto15.C": "cpp"
+		}
+	}
+}
